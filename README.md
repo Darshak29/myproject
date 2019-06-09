@@ -1,3 +1,0 @@
-# myproject
-
-Devops project
